@@ -20,8 +20,15 @@ Welcome to the To-Do List App, a clean, minimalist task management tool built wi
     CSS3: For styling the list, buttons, and layout.
     JavaScript: For real-time DOM manipulation and task management logic.
 
+
+
+
 🎯 Perfect For:
 
     Beginners exploring JavaScript and its interaction with the DOM.
     Developers who want to build a simple project to reinforce their knowledge of event-driven programming.
     Anyone looking for a practical, lightweight To-Do List app to manage daily tasks.
+
+![image](https://github.com/user-attachments/assets/67ffd2bf-6234-4ac0-a97e-4003a48761f2)
+
+
